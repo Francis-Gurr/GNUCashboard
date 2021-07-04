@@ -1,2 +1,2 @@
-# GNUCashboard
-Dashboard for GNU Cash
+# GnuCashboard
+Dashboard for GnuCash (https://gnucash.org/)
