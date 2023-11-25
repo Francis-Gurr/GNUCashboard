@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button"
 import { MoonIcon, SunIcon } from "@radix-ui/react-icons"
 import { useTheme } from "next-themes"
 
-export function ModeToggle() {
+export function DarkModeToggle() {
   const { setTheme, theme } = useTheme()
 
   const toggleTheme = () => {
